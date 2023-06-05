@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Mel"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pre-entrega 1,Ciarallo"
+	}
+}
